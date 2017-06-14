@@ -1,0 +1,19 @@
+{
+  "name": "reallycare-meds-sessions",
+  "version": "0.0.1",
+  "description": "Constants for medication sessions (slots)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReallyCare/medsSessions.git"
+  },
+  "author": "Mark Chapman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ReallyCare/medsSessions/issues"
+  },
+  "homepage": "https://github.com/ReallyCare/medsSessions#readme"
+}

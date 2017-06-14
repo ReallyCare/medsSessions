@@ -1,0 +1,8 @@
+{
+  "name": "reallycare-meds-sessions",
+  "version": "0.0.1",
+  "homepage": "https://github.com/reallycare/medsSessions",
+  "main": [
+    "index.js"
+  ]
+}
