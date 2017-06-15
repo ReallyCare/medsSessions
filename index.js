@@ -4,9 +4,9 @@
     void (options);
   };
   MedsSessions = [
-      { name: 'Morning',  value: 7  },
-      { name: 'Lunch',    value: 12 },
-      { name: 'Teatime',  value: 17 },
+      { name: 'Morning',  value: 7  , boundary: 10},
+      { name: 'Lunch',    value: 12 , boundary: 15},
+      { name: 'Teatime',  value: 17 , boundary: 19},
       { name: 'Night',    value: 22 }
     ];
 
